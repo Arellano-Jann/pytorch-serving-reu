@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir -p packages
 cp -r ./venv/lib64/python3.6/site-packages/* packages
 cd packages
